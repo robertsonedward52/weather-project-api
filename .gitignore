@@ -1,0 +1,6 @@
+# my weather project api
+.gitignore
+
+# weather app 
+*.js
+*.txt
